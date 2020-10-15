@@ -22,6 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+<img src = "/assets/images/mas de 1000.png" alt="">
 
 [Link](url) and ![Image](src)
 ```
